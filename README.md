@@ -17,4 +17,4 @@ The core question: Is Northwind winning through brand demand or buying market sh
 4. Discontinued Products tying up capital
 
 ## Detailed Analysis & Recommendations
-For in-depth analysis and business recommendations,[Read the full article on Medium]()
+For in-depth analysis and business recommendations,[Read the full article on Medium](https://medium.com/@princessjames563/looking-at-the-northwind-traders-dataset-the-headline-number-looked-healthy-061b1bf2d00f)
